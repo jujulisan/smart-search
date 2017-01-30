@@ -1,0 +1,2 @@
+module SmartSearchHelper
+end

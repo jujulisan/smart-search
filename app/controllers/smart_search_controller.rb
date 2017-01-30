@@ -1,0 +1,2 @@
+class SmartSearchController < ApplicationController
+end
