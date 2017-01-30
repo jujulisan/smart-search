@@ -1,3 +1,5 @@
 Rails.application.routes.draw do
-   root 'smart_search#index'
+  get 'home/index'
+
+   root 'home#index'
 end
