@@ -39,6 +39,9 @@ gem 'jbuilder', '~> 2.5'
 # Rake tasks to add Bootstrap, Font Awesome, and Start Bootstrap Landing Pages to a Rails app
 gem 'frontend-generators'
 
+# Rails gem of the Bootstrap based admin theme SB Admin 2.
+gem 'bootstrap_sb_admin_base_v2'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
